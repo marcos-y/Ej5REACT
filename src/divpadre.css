@@ -1,0 +1,11 @@
+.divpadre{
+   padding:50px; 
+   border-color: black;
+   border-style: solid;
+   width: 500px;
+   margin: auto;
+   margin-top: 50px;
+   flex-wrap: wrap;
+   border-radius:25px;
+   box-shadow: 5px 10px 8px #888888;
+}
