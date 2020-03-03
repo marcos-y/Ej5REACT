@@ -1,0 +1,7 @@
+.listgroup{
+    padding:50px;
+    margin:auto;
+    flex-wrap: nowrap;
+    display: flex;
+    align-items: center;
+}
