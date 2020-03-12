@@ -41,8 +41,7 @@ const Paleta = () => {
                                  
                 <ListGroup>{
                     colores.map(color => {
-                        return  <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src="holder.js/100px180" />
+                        return  <Card style={{ width: '18rem', backgroundColor:color }}>
                         <Card.Body>
                           <Card.Title>{color}</Card.Title>
                           <Card.Text>
